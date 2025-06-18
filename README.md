@@ -1,1 +1,2 @@
-# landing-page
+npm run build
+npm run deploy

@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+body {
+  font-family: "Netflix Sans", sans-serif;
+  background-image: url("/src/assets/images/glass-background.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.text-accent {
+  color: #eaa257;
+}
